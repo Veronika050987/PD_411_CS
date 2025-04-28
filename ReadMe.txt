@@ -1,4 +1,5 @@
-﻿
+﻿https://github.com/okovtun/PD_411_CS.git
+https://www.youtube.com/playlist?list=PLeqyOOqxeiINOiKYh0YejB9GISCy2h6oT
 
 TODO;
 1. В проекте 'DataTypes' вывести следующую информацию о каждом типе данных:
